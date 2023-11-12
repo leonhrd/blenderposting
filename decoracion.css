@@ -1,0 +1,101 @@
+
+
+body
+{
+    padding-left: 150px;
+    padding-right: 200px;
+    margin-left: 150px;
+    background-color: whitesmoke;
+}
+
+
+
+
+#fondo{
+ 
+    background-image: url("blenderFondo.jpg");
+    
+    background-position: top ;
+    background-repeat: no-repeat;
+    background-size: contain ;
+    height: 1080px;
+   
+
+    
+   margin: 0px;
+    padding: 0px;
+}
+
+
+h1.titular{
+    padding-top:  50px;
+    color: coral;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
+
+p.introduccion{
+    padding-top:  50px;
+    padding-left: 30px;
+    color: black;
+    background-position: center;
+    font-size: larger;
+    text-align: left;
+
+
+}
+
+
+#BlenderMenu{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:  50px;
+    opacity:1;   
+    height: 720px;
+    background-image: url('./BlenderMain.jpg');
+
+    background-size: 1280px 720px;
+    
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: contain ;
+}
+
+#BlenderSec{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:  50px;
+    opacity:1;   
+    height: 720px;
+    background-image: url('./BlenderSec.jpg');
+
+    background-size: 1280px 720px;
+    
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: contain ;
+}
+
+
+
+#first{
+    background-position: center;
+    padding-left: 30px;
+}
+
+#who{
+    background-position: center;
+    padding-left: 30px;
+}
+
+#key{
+    background-position: center;
+    padding-left: 30px;
+}
+
+aside{
+
+    padding-top: 100px;
+}
